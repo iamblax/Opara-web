@@ -1,0 +1,16 @@
+.blog-card figure a img {
+    top: auto;
+    bottom: auto;
+    left: auto;
+    right: auto;
+    min-width: 100%;
+    min-height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    position: absolute;
+    display: block;
+}
+
+/*my password: 9F44CD2407F1331E2674222E678CE49947CB  */
+/* sever: smtp.elasticemail.com */
+/*port: 2525 */
